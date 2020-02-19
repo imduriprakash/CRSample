@@ -2,7 +2,7 @@ About
 =====
 
 This project provides an implementation of a client-side (implicit grant)
-OAuth 2.0 authorization flow.
+OAuth 2.0 authorization flow
 
 Features
 ========
